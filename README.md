@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter<br>👯 I’m looking to collaborate on App development<br>🤝 I’m looking for help with App development<br>💬 Ask me about Flutter basics.<br>⚡ Fun fact: I waste my whole day Infront of table pretending to learn which I actually don't.
+🔭 Learner.
 
 
 ## 🌐 Socials:
