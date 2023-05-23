@@ -70,7 +70,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/poudelsanchit/poudelsanchit/output/snake.svg" alt="Snake animation" />
 
 ###
 
