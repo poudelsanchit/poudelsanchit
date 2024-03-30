@@ -9,7 +9,7 @@
 
 ###
 
-<h2 align="left">I'm Frontend developer from Nepal.<br><br>- 📚 I'm currently learning ReactJs</h2>
+<h2 align="left">I'm Frontend developer from Nepal.<br><br>-</h2>
 
 ###
 
