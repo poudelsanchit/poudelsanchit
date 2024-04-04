@@ -9,7 +9,7 @@
 
 ###
 
-<h2 align="left">I'm Frontend developer from Nepal.<br><br>-</h2>
+<h2 align="left">I'm Frontend developer from Nepal.<br><br></h2>
 
 ###
 
