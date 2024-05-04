@@ -1,80 +1,47 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=497EF7&background=9366FF00&center=true&vCenter=true&random=false&width=435&lines=Hi+there!%F0%9F%91%8B;I+am+Sanchit+Poudel">
+</h1>
+<h5 align="center">I am currently enrolled in a Software Engineering program at Pokhara University in Nepal, working towards my Bachelor's degree.
+</h5>
 
-###
+ <p>&nbsp;</p>
 
-<h1 align="center">नमस्ते 🙏 </h1>
+<h3 align="left">Languages and Tools:</h3>
 
-###
+![](https://skillicons.dev/icons?i=react,ts,js,tailwind,mongodb,firebase,c,git,js,figma,netlify,vscode,vercel&perline=20)
 
-<h3 align="left">👩‍💻  About Me</h3>
+<br>
 
-###
+### 👨 My Github Activity
 
-<h2 align="left">I'm Frontend developer from Nepal.<br><br></h2>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=poudelsanchit&theme=github-dark-blue&hide_border=true&card_width=800" width="700"/>
 
-###
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poudelsanchit&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=poudelsanchit&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=poudelsanchit&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=poudelsanchit&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=poudelsanchit&theme=github_dark&utcOffset=8)
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
-  <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dribbble logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-</div>
+<!----![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312knnsjy3cvsyoqnred5lic3erq)</p> --->
 
-###
+### 👨‍💻 I love listening to Music on my leasure time. 🎶
 
-<h3 align="left">🛠 Language and tools</h3>
+<p>
+  <a href="https://open.spotify.com/user/c53ed6n3dtj14uosjney6nxlw" target="_blank" ><img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></a>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" width="52" alt="firebase logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="52" alt="googlecloud logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" width="52" alt="jetbrains logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="52" alt="canva logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" width="52" alt="intellij logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=poudelsanchit&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=9&order=3" height="200" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=poudelsanchit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=poudelsanchit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="250" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
+<p align="left">
+  <a href="https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci" target="_blank" >
+    <img src="https://raw.githubusercontent.com/nabin-kandel/nabin-kandel/1e8382b08d1a06e6b77a8907f18c50d429a0caf2/assect/avi.svg" target="_blank"/></a>
+</p>
 
 
-###
+<hr>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
+<a href="https://www.linkedin.com/in/poudelsanchit/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lin" height="30" width="40" /></a>
+<a href="https://instagram.com/poudelsanchit" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nabin.kdl" height="30" width="40" /></a><span>
+<!-- <a href="https://discord.gg/https://discord.gg/RfKzrdBd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/RfKzrdBd" height="30" width="40" /></span></a> -->
+</p>
 
-###
+<img src="https://raw.githubusercontent.com/nabin-kandel/nabin-kandel/0eee02d490344b74bd431dd04aef32c67d6c91ac/assect/bottom_header.svg"/>
