@@ -1,8 +1,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=497EF7&background=9366FF00&center=true&vCenter=true&random=false&width=435&lines=Hi+there!%F0%9F%91%8B;I+am+Sanchit+Poudel">
 </h1>
-<h5 align="center">Fullstack developer
-</h5>
+<h6 align="center">Currently Studying Software Enginnering.
+</h6>
 
  <p>&nbsp;</p>
 
@@ -31,6 +31,6 @@
 
 <a href="https://www.linkedin.com/in/poudelsanchit/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lin" height="30" width="40" /></a>
 <a href="https://instagram.com/poudelsanchit" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nabin.kdl" height="30" width="40" /></a><span>
-<!-- <a href="https://discord.gg/https://discord.gg/RfKzrdBd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/RfKzrdBd" height="30" width="40" /></span></a> -->
+
 </p>
 
