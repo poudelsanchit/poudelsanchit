@@ -22,15 +22,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=poudelsanchit&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=poudelsanchit&theme=github_dark&utcOffset=8)
 
---![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312knnsjy3cvsyoqnred5lic3erq)</p> -
 
-### 👨‍💻 I love listening to Music on my leasure time. 🎶
-
-
-<p align="left">
-  <a href="https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci" target="_blank" >
-    <img src="https://raw.githubusercontent.com/nabin-kandel/nabin-kandel/1e8382b08d1a06e6b77a8907f18c50d429a0caf2/assect/avi.svg" target="_blank"/></a>
-</p>
 
 
 <hr>
