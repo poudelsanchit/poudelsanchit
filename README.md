@@ -14,7 +14,7 @@
 
 ### 👨 My Github Activity
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=poudelsanchit&theme=github-dark-blue&hide_border=true&card_width=800" width="700"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=poudelsanchit&theme=github-dark-blue&hide_border=true&card_width=1000" width="700"/>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poudelsanchit&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=poudelsanchit&theme=github_dark)
@@ -22,12 +22,12 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=poudelsanchit&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=poudelsanchit&theme=github_dark&utcOffset=8)
 
-<!----![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312knnsjy3cvsyoqnred5lic3erq)</p> --->
+--![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312knnsjy3cvsyoqnred5lic3erq)</p> -
 
 ### 👨‍💻 I love listening to Music on my leasure time. 🎶
 
 <p>
-  <a href="https://open.spotify.com/user/c53ed6n3dtj14uosjney6nxlw" target="_blank" ><img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></a>
+  <a href="https://spotify-recently-played-readme.vercel.app/api?user=c53ed6n3dtj14uosjney6nxlw" target="_blank" ><img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></a>
 
 <p align="left">
   <a href="https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci" target="_blank" >
