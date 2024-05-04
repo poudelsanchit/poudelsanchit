@@ -1,9 +1,19 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=497EF7&background=9366FF00&center=true&vCenter=true&random=false&width=435&lines=Hi+there!%F0%9F%91%8B;I+am+Sanchit+Poudel">
 </h1>
-<h6 align="center">Currently Studying Software Enginnering.
+<h6 align="center">Currently enrolled in a Software Engineering program at Pokhara University in Nepal, working towards my Bachelor's degree.
+
 </h6>
 
+- 🌱 I’m currently learning **backend.**
+
+- 👯 I’m looking to collaborate on **Fullstack Projects**
+
+- 👨‍💻 All of my projects are available at [https://www.sanchitpoudel.com.np/](https://www.sanchitpoudel.com.np/)
+
+- 💬 Ask me about **MERN**
+
+- 📫 How to reach me **snchtpdl12@gmail.com**
  <p>&nbsp;</p>
 
 <h3 align="left">Languages and Tools:</h3>
