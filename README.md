@@ -26,8 +26,6 @@
 
 ### 👨‍💻 I love listening to Music on my leasure time. 🎶
 
-<p>
-  <a href="https://spotify-recently-played-readme.vercel.app/api?user=c53ed6n3dtj14uosjney6nxlw" target="_blank" ><img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></a>
 
 <p align="left">
   <a href="https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci" target="_blank" >
